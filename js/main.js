@@ -3,7 +3,7 @@ const productos = [
     // Series
     {
         id: "series-01",
-        titulo: "jon-snow-got",
+        titulo: "Jon Snow",
         imagen: "./img/jon-snow-got-series.jpg",
         categoria: {
             nombre: "Series",
@@ -13,7 +13,7 @@ const productos = [
     },
     {
         id: "series-02",
-        titulo: "rick-sanchez",
+        titulo: "Rick",
         imagen: "./img/rick-rick-and-morty-series.jpg",
         categoria: {
             nombre: "series",
@@ -23,7 +23,7 @@ const productos = [
     },
     {
         id: "series-03",
-        titulo: "michael-scott",
+        titulo: "Michael Scott",
         imagen: "./img/michael-scott-theoffice-series.jpg",
         categoria: {
             nombre: "series",
@@ -33,7 +33,7 @@ const productos = [
     },
     {
         id: "series-04",
-        titulo: "morty-smith",
+        titulo: "Morty",
         imagen: "./img/morty-rick-and-morty-series.jpg",
         categoria: {
             nombre: "series",
@@ -43,7 +43,7 @@ const productos = [
     },
     {
         id: "series-05",
-        titulo: "dwight-schrute",
+        titulo: "Dwight",
         imagen: "./img/dwight-schrute-theoffice-series.jpg",
         categoria: {
             nombre: "series",
